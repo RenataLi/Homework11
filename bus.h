@@ -10,7 +10,7 @@ using namespace std;
 # include "rnd.h"
 // автобус
 struct bus {
-    int passenger_capacity; // пасажировместимость
+    short passenger_capacity; // пасажировместимость
     int fuel_capasity;//емкость топливного бака
     double fuel_consumption;//расход топлива
 };
