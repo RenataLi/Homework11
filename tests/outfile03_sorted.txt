@@ -1,0 +1,1002 @@
+Buble sorted container : 
+Container contains 1000 elements.
+0: It is Truck: capacity = 3400. Distance = 2.5
+1: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+2: It is Bus: passenger capacity = 10. Distance = 0.958333
+3: It is Bus: passenger capacity = 15. Distance = 1.92308
+4: It is Bus: passenger capacity = 10. Distance = 0.958333
+5: It is Truck: capacity = 3400. Distance = 2.5
+6: It is Bus: passenger capacity = 15. Distance = 1.92308
+7: It is Truck: capacity = 3400. Distance = 2.5
+8: It is Bus: passenger capacity = 34. Distance = 1
+9: It is Bus: passenger capacity = 34. Distance = 1
+10: It is Truck: capacity = 2340. Distance = 2.08696
+11: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+12: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+13: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+14: It is Bus: passenger capacity = 10. Distance = 0.958333
+15: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+16: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+17: It is Truck: capacity = 3400. Distance = 2.5
+18: It is Truck: capacity = 2340. Distance = 2.08696
+19: It is Bus: passenger capacity = 15. Distance = 1.92308
+20: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+21: It is Truck: capacity = 3200. Distance = 3.16667
+22: It is Bus: passenger capacity = 34. Distance = 1
+23: It is Truck: capacity = 3200. Distance = 3.16667
+24: It is Bus: passenger capacity = 15. Distance = 1.92308
+25: It is Bus: passenger capacity = 15. Distance = 1.92308
+26: It is Bus: passenger capacity = 15. Distance = 1.92308
+27: It is Truck: capacity = 2340. Distance = 2.08696
+28: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+29: It is Truck: capacity = 3200. Distance = 3.16667
+30: It is Bus: passenger capacity = 15. Distance = 1.92308
+31: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+32: It is Bus: passenger capacity = 15. Distance = 1.92308
+33: It is Truck: capacity = 3200. Distance = 3.16667
+34: It is Bus: passenger capacity = 15. Distance = 1.92308
+35: It is Bus: passenger capacity = 15. Distance = 1.92308
+36: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+37: It is Bus: passenger capacity = 10. Distance = 0.958333
+38: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+39: It is Bus: passenger capacity = 15. Distance = 1.92308
+40: It is Bus: passenger capacity = 34. Distance = 1
+41: It is Truck: capacity = 3200. Distance = 3.16667
+42: It is Truck: capacity = 3400. Distance = 2.5
+43: It is Truck: capacity = 3400. Distance = 2.5
+44: It is Bus: passenger capacity = 10. Distance = 0.958333
+45: It is Truck: capacity = 2340. Distance = 2.08696
+46: It is Truck: capacity = 2340. Distance = 2.08696
+47: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+48: It is Bus: passenger capacity = 34. Distance = 1
+49: It is Truck: capacity = 3200. Distance = 3.16667
+50: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+51: It is Bus: passenger capacity = 15. Distance = 1.92308
+52: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+53: It is Truck: capacity = 3400. Distance = 2.5
+54: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+55: It is Bus: passenger capacity = 10. Distance = 0.958333
+56: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+57: It is Bus: passenger capacity = 34. Distance = 1
+58: It is Bus: passenger capacity = 15. Distance = 1.92308
+59: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+60: It is Truck: capacity = 2340. Distance = 2.08696
+61: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+62: It is Bus: passenger capacity = 15. Distance = 1.92308
+63: It is Truck: capacity = 3200. Distance = 3.16667
+64: It is Bus: passenger capacity = 15. Distance = 1.92308
+65: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+66: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+67: It is Bus: passenger capacity = 15. Distance = 1.92308
+68: It is Truck: capacity = 3400. Distance = 2.5
+69: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+70: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+71: It is Truck: capacity = 2340. Distance = 2.08696
+72: It is Truck: capacity = 2340. Distance = 2.08696
+73: It is Truck: capacity = 2340. Distance = 2.08696
+74: It is Truck: capacity = 3200. Distance = 3.16667
+75: It is Bus: passenger capacity = 10. Distance = 0.958333
+76: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+77: It is Bus: passenger capacity = 15. Distance = 1.92308
+78: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+79: It is Bus: passenger capacity = 34. Distance = 1
+80: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+81: It is Bus: passenger capacity = 34. Distance = 1
+82: It is Bus: passenger capacity = 10. Distance = 0.958333
+83: It is Truck: capacity = 3400. Distance = 2.5
+84: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+85: It is Bus: passenger capacity = 10. Distance = 0.958333
+86: It is Truck: capacity = 3200. Distance = 3.16667
+87: It is Bus: passenger capacity = 15. Distance = 1.92308
+88: It is Truck: capacity = 3200. Distance = 3.16667
+89: It is Bus: passenger capacity = 34. Distance = 1
+90: It is Bus: passenger capacity = 10. Distance = 0.958333
+91: It is Bus: passenger capacity = 10. Distance = 0.958333
+92: It is Truck: capacity = 3400. Distance = 2.5
+93: It is Truck: capacity = 2340. Distance = 2.08696
+94: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+95: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+96: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+97: It is Bus: passenger capacity = 34. Distance = 1
+98: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+99: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+100: It is Bus: passenger capacity = 15. Distance = 1.92308
+101: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+102: It is Truck: capacity = 3200. Distance = 3.16667
+103: It is Truck: capacity = 3400. Distance = 2.5
+104: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+105: It is Bus: passenger capacity = 10. Distance = 0.958333
+106: It is Bus: passenger capacity = 15. Distance = 1.92308
+107: It is Bus: passenger capacity = 34. Distance = 1
+108: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+109: It is Bus: passenger capacity = 15. Distance = 1.92308
+110: It is Bus: passenger capacity = 15. Distance = 1.92308
+111: It is Truck: capacity = 3200. Distance = 3.16667
+112: It is Bus: passenger capacity = 15. Distance = 1.92308
+113: It is Truck: capacity = 2340. Distance = 2.08696
+114: It is Bus: passenger capacity = 34. Distance = 1
+115: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+116: It is Truck: capacity = 2340. Distance = 2.08696
+117: It is Bus: passenger capacity = 15. Distance = 1.92308
+118: It is Truck: capacity = 3400. Distance = 2.5
+119: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+120: It is Bus: passenger capacity = 15. Distance = 1.92308
+121: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+122: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+123: It is Truck: capacity = 3400. Distance = 2.5
+124: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+125: It is Bus: passenger capacity = 10. Distance = 0.958333
+126: It is Bus: passenger capacity = 34. Distance = 1
+127: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+128: It is Bus: passenger capacity = 10. Distance = 0.958333
+129: It is Truck: capacity = 3200. Distance = 3.16667
+130: It is Bus: passenger capacity = 10. Distance = 0.958333
+131: It is Truck: capacity = 3200. Distance = 3.16667
+132: It is Bus: passenger capacity = 15. Distance = 1.92308
+133: It is Truck: capacity = 3400. Distance = 2.5
+134: It is Truck: capacity = 3400. Distance = 2.5
+135: It is Bus: passenger capacity = 15. Distance = 1.92308
+136: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+137: It is Bus: passenger capacity = 15. Distance = 1.92308
+138: It is Truck: capacity = 2340. Distance = 2.08696
+139: It is Bus: passenger capacity = 15. Distance = 1.92308
+140: It is Bus: passenger capacity = 34. Distance = 1
+141: It is Truck: capacity = 2340. Distance = 2.08696
+142: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+143: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+144: It is Truck: capacity = 3400. Distance = 2.5
+145: It is Bus: passenger capacity = 10. Distance = 0.958333
+146: It is Truck: capacity = 3400. Distance = 2.5
+147: It is Truck: capacity = 2340. Distance = 2.08696
+148: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+149: It is Bus: passenger capacity = 15. Distance = 1.92308
+150: It is Truck: capacity = 3200. Distance = 3.16667
+151: It is Truck: capacity = 2340. Distance = 2.08696
+152: It is Truck: capacity = 3200. Distance = 3.16667
+153: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+154: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+155: It is Bus: passenger capacity = 15. Distance = 1.92308
+156: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+157: It is Bus: passenger capacity = 15. Distance = 1.92308
+158: It is Truck: capacity = 3200. Distance = 3.16667
+159: It is Truck: capacity = 3400. Distance = 2.5
+160: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+161: It is Bus: passenger capacity = 10. Distance = 0.958333
+162: It is Truck: capacity = 2340. Distance = 2.08696
+163: It is Bus: passenger capacity = 34. Distance = 1
+164: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+165: It is Truck: capacity = 2340. Distance = 2.08696
+166: It is Bus: passenger capacity = 34. Distance = 1
+167: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+168: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+169: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+170: It is Bus: passenger capacity = 15. Distance = 1.92308
+171: It is Bus: passenger capacity = 34. Distance = 1
+172: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+173: It is Bus: passenger capacity = 10. Distance = 0.958333
+174: It is Bus: passenger capacity = 15. Distance = 1.92308
+175: It is Bus: passenger capacity = 15. Distance = 1.92308
+176: It is Bus: passenger capacity = 15. Distance = 1.92308
+177: It is Truck: capacity = 3200. Distance = 3.16667
+178: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+179: It is Bus: passenger capacity = 34. Distance = 1
+180: It is Bus: passenger capacity = 15. Distance = 1.92308
+181: It is Bus: passenger capacity = 34. Distance = 1
+182: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+183: It is Bus: passenger capacity = 10. Distance = 0.958333
+184: It is Truck: capacity = 3400. Distance = 2.5
+185: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+186: It is Truck: capacity = 3200. Distance = 3.16667
+187: It is Bus: passenger capacity = 15. Distance = 1.92308
+188: It is Truck: capacity = 3200. Distance = 3.16667
+189: It is Truck: capacity = 3400. Distance = 2.5
+190: It is Bus: passenger capacity = 15. Distance = 1.92308
+191: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+192: It is Truck: capacity = 2340. Distance = 2.08696
+193: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+194: It is Bus: passenger capacity = 10. Distance = 0.958333
+195: It is Truck: capacity = 2340. Distance = 2.08696
+196: It is Bus: passenger capacity = 34. Distance = 1
+197: It is Bus: passenger capacity = 15. Distance = 1.92308
+198: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+199: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+200: It is Truck: capacity = 3400. Distance = 2.5
+201: It is Bus: passenger capacity = 15. Distance = 1.92308
+202: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+203: It is Bus: passenger capacity = 34. Distance = 1
+204: It is Bus: passenger capacity = 15. Distance = 1.92308
+205: It is Truck: capacity = 2340. Distance = 2.08696
+206: It is Bus: passenger capacity = 34. Distance = 1
+207: It is Truck: capacity = 2340. Distance = 2.08696
+208: It is Truck: capacity = 3200. Distance = 3.16667
+209: It is Bus: passenger capacity = 15. Distance = 1.92308
+210: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+211: It is Bus: passenger capacity = 15. Distance = 1.92308
+212: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+213: It is Truck: capacity = 3400. Distance = 2.5
+214: It is Truck: capacity = 3400. Distance = 2.5
+215: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+216: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+217: It is Bus: passenger capacity = 10. Distance = 0.958333
+218: It is Bus: passenger capacity = 15. Distance = 1.92308
+219: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+220: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+221: It is Bus: passenger capacity = 10. Distance = 0.958333
+222: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+223: It is Truck: capacity = 3200. Distance = 3.16667
+224: It is Bus: passenger capacity = 10. Distance = 0.958333
+225: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+226: It is Bus: passenger capacity = 34. Distance = 1
+227: It is Truck: capacity = 2340. Distance = 2.08696
+228: It is Bus: passenger capacity = 15. Distance = 1.92308
+229: It is Bus: passenger capacity = 15. Distance = 1.92308
+230: It is Truck: capacity = 3200. Distance = 3.16667
+231: It is Truck: capacity = 3400. Distance = 2.5
+232: It is Bus: passenger capacity = 15. Distance = 1.92308
+233: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+234: It is Truck: capacity = 3400. Distance = 2.5
+235: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+236: It is Bus: passenger capacity = 15. Distance = 1.92308
+237: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+238: It is Bus: passenger capacity = 15. Distance = 1.92308
+239: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+240: It is Truck: capacity = 2340. Distance = 2.08696
+241: It is Truck: capacity = 3200. Distance = 3.16667
+242: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+243: It is Truck: capacity = 3200. Distance = 3.16667
+244: It is Bus: passenger capacity = 10. Distance = 0.958333
+245: It is Bus: passenger capacity = 34. Distance = 1
+246: It is Bus: passenger capacity = 10. Distance = 0.958333
+247: It is Bus: passenger capacity = 15. Distance = 1.92308
+248: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+249: It is Bus: passenger capacity = 10. Distance = 0.958333
+250: It is Truck: capacity = 2340. Distance = 2.08696
+251: It is Truck: capacity = 2340. Distance = 2.08696
+252: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+253: It is Bus: passenger capacity = 34. Distance = 1
+254: It is Truck: capacity = 3400. Distance = 2.5
+255: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+256: It is Bus: passenger capacity = 15. Distance = 1.92308
+257: It is Bus: passenger capacity = 34. Distance = 1
+258: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+259: It is Bus: passenger capacity = 15. Distance = 1.92308
+260: It is Truck: capacity = 3200. Distance = 3.16667
+261: It is Truck: capacity = 3400. Distance = 2.5
+262: It is Bus: passenger capacity = 15. Distance = 1.92308
+263: It is Bus: passenger capacity = 34. Distance = 1
+264: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+265: It is Bus: passenger capacity = 15. Distance = 1.92308
+266: It is Bus: passenger capacity = 10. Distance = 0.958333
+267: It is Truck: capacity = 3200. Distance = 3.16667
+268: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+269: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+270: It is Bus: passenger capacity = 10. Distance = 0.958333
+271: It is Bus: passenger capacity = 15. Distance = 1.92308
+272: It is Truck: capacity = 2340. Distance = 2.08696
+273: It is Truck: capacity = 2340. Distance = 2.08696
+274: It is Truck: capacity = 3200. Distance = 3.16667
+275: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+276: It is Bus: passenger capacity = 34. Distance = 1
+277: It is Bus: passenger capacity = 15. Distance = 1.92308
+278: It is Truck: capacity = 3400. Distance = 2.5
+279: It is Truck: capacity = 3400. Distance = 2.5
+280: It is Truck: capacity = 2340. Distance = 2.08696
+281: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+282: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+283: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+284: It is Truck: capacity = 3200. Distance = 3.16667
+285: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+286: It is Bus: passenger capacity = 10. Distance = 0.958333
+287: It is Bus: passenger capacity = 15. Distance = 1.92308
+288: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+289: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+290: It is Truck: capacity = 3200. Distance = 3.16667
+291: It is Bus: passenger capacity = 15. Distance = 1.92308
+292: It is Truck: capacity = 2340. Distance = 2.08696
+293: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+294: It is Truck: capacity = 3400. Distance = 2.5
+295: It is Bus: passenger capacity = 15. Distance = 1.92308
+296: It is Bus: passenger capacity = 10. Distance = 0.958333
+297: It is Truck: capacity = 2340. Distance = 2.08696
+298: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+299: It is Bus: passenger capacity = 34. Distance = 1
+300: It is Truck: capacity = 3400. Distance = 2.5
+301: It is Bus: passenger capacity = 15. Distance = 1.92308
+302: It is Truck: capacity = 3400. Distance = 2.5
+303: It is Bus: passenger capacity = 10. Distance = 0.958333
+304: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+305: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+306: It is Bus: passenger capacity = 34. Distance = 1
+307: It is Truck: capacity = 3200. Distance = 3.16667
+308: It is Bus: passenger capacity = 34. Distance = 1
+309: It is Bus: passenger capacity = 15. Distance = 1.92308
+310: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+311: It is Bus: passenger capacity = 15. Distance = 1.92308
+312: It is Bus: passenger capacity = 34. Distance = 1
+313: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+314: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+315: It is Truck: capacity = 3200. Distance = 3.16667
+316: It is Bus: passenger capacity = 34. Distance = 1
+317: It is Bus: passenger capacity = 15. Distance = 1.92308
+318: It is Truck: capacity = 3400. Distance = 2.5
+319: It is Truck: capacity = 3400. Distance = 2.5
+320: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+321: It is Bus: passenger capacity = 15. Distance = 1.92308
+322: It is Bus: passenger capacity = 15. Distance = 1.92308
+323: It is Bus: passenger capacity = 10. Distance = 0.958333
+324: It is Bus: passenger capacity = 10. Distance = 0.958333
+325: It is Bus: passenger capacity = 15. Distance = 1.92308
+326: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+327: It is Bus: passenger capacity = 34. Distance = 1
+328: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+329: It is Truck: capacity = 2340. Distance = 2.08696
+330: It is Bus: passenger capacity = 10. Distance = 0.958333
+331: It is Truck: capacity = 2340. Distance = 2.08696
+332: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+333: It is Truck: capacity = 3200. Distance = 3.16667
+334: It is Truck: capacity = 2340. Distance = 2.08696
+335: It is Bus: passenger capacity = 10. Distance = 0.958333
+336: It is Truck: capacity = 3200. Distance = 3.16667
+337: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+338: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+339: It is Truck: capacity = 3400. Distance = 2.5
+340: It is Bus: passenger capacity = 15. Distance = 1.92308
+341: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+342: It is Bus: passenger capacity = 15. Distance = 1.92308
+343: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+344: It is Bus: passenger capacity = 10. Distance = 0.958333
+345: It is Truck: capacity = 2340. Distance = 2.08696
+346: It is Bus: passenger capacity = 34. Distance = 1
+347: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+348: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+349: It is Truck: capacity = 2340. Distance = 2.08696
+350: It is Truck: capacity = 3200. Distance = 3.16667
+351: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+352: It is Bus: passenger capacity = 15. Distance = 1.92308
+353: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+354: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+355: It is Bus: passenger capacity = 15. Distance = 1.92308
+356: It is Truck: capacity = 3200. Distance = 3.16667
+357: It is Bus: passenger capacity = 15. Distance = 1.92308
+358: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+359: It is Bus: passenger capacity = 34. Distance = 1
+360: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+361: It is Bus: passenger capacity = 10. Distance = 0.958333
+362: It is Truck: capacity = 3400. Distance = 2.5
+363: It is Truck: capacity = 2340. Distance = 2.08696
+364: It is Truck: capacity = 3200. Distance = 3.16667
+365: It is Bus: passenger capacity = 15. Distance = 1.92308
+366: It is Bus: passenger capacity = 15. Distance = 1.92308
+367: It is Truck: capacity = 3400. Distance = 2.5
+368: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+369: It is Bus: passenger capacity = 10. Distance = 0.958333
+370: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+371: It is Bus: passenger capacity = 15. Distance = 1.92308
+372: It is Truck: capacity = 3400. Distance = 2.5
+373: It is Truck: capacity = 3200. Distance = 3.16667
+374: It is Bus: passenger capacity = 15. Distance = 1.92308
+375: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+376: It is Bus: passenger capacity = 10. Distance = 0.958333
+377: It is Truck: capacity = 2340. Distance = 2.08696
+378: It is Bus: passenger capacity = 34. Distance = 1
+379: It is Truck: capacity = 3200. Distance = 3.16667
+380: It is Bus: passenger capacity = 10. Distance = 0.958333
+381: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+382: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+383: It is Bus: passenger capacity = 15. Distance = 1.92308
+384: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+385: It is Bus: passenger capacity = 15. Distance = 1.92308
+386: It is Truck: capacity = 2340. Distance = 2.08696
+387: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+388: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+389: It is Bus: passenger capacity = 15. Distance = 1.92308
+390: It is Truck: capacity = 2340. Distance = 2.08696
+391: It is Bus: passenger capacity = 10. Distance = 0.958333
+392: It is Truck: capacity = 3200. Distance = 3.16667
+393: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+394: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+395: It is Bus: passenger capacity = 34. Distance = 1
+396: It is Bus: passenger capacity = 34. Distance = 1
+397: It is Truck: capacity = 3400. Distance = 2.5
+398: It is Bus: passenger capacity = 15. Distance = 1.92308
+399: It is Truck: capacity = 3400. Distance = 2.5
+400: It is Truck: capacity = 2340. Distance = 2.08696
+401: It is Truck: capacity = 3200. Distance = 3.16667
+402: It is Truck: capacity = 3400. Distance = 2.5
+403: It is Bus: passenger capacity = 15. Distance = 1.92308
+404: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+405: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+406: It is Bus: passenger capacity = 34. Distance = 1
+407: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+408: It is Bus: passenger capacity = 15. Distance = 1.92308
+409: It is Truck: capacity = 3200. Distance = 3.16667
+410: It is Truck: capacity = 3400. Distance = 2.5
+411: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+412: It is Bus: passenger capacity = 10. Distance = 0.958333
+413: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+414: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+415: It is Bus: passenger capacity = 15. Distance = 1.92308
+416: It is Bus: passenger capacity = 10. Distance = 0.958333
+417: It is Bus: passenger capacity = 15. Distance = 1.92308
+418: It is Bus: passenger capacity = 15. Distance = 1.92308
+419: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+420: It is Truck: capacity = 3400. Distance = 2.5
+421: It is Bus: passenger capacity = 34. Distance = 1
+422: It is Truck: capacity = 2340. Distance = 2.08696
+423: It is Bus: passenger capacity = 34. Distance = 1
+424: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+425: It is Bus: passenger capacity = 34. Distance = 1
+426: It is Truck: capacity = 3400. Distance = 2.5
+427: It is Bus: passenger capacity = 10. Distance = 0.958333
+428: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+429: It is Truck: capacity = 3400. Distance = 2.5
+430: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+431: It is Bus: passenger capacity = 34. Distance = 1
+432: It is Truck: capacity = 3200. Distance = 3.16667
+433: It is Truck: capacity = 3400. Distance = 2.5
+434: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+435: It is Bus: passenger capacity = 10. Distance = 0.958333
+436: It is Truck: capacity = 2340. Distance = 2.08696
+437: It is Truck: capacity = 2340. Distance = 2.08696
+438: It is Bus: passenger capacity = 15. Distance = 1.92308
+439: It is Bus: passenger capacity = 15. Distance = 1.92308
+440: It is Truck: capacity = 2340. Distance = 2.08696
+441: It is Bus: passenger capacity = 34. Distance = 1
+442: It is Bus: passenger capacity = 15. Distance = 1.92308
+443: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+444: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+445: It is Bus: passenger capacity = 10. Distance = 0.958333
+446: It is Bus: passenger capacity = 15. Distance = 1.92308
+447: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+448: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+449: It is Bus: passenger capacity = 15. Distance = 1.92308
+450: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+451: It is Truck: capacity = 2340. Distance = 2.08696
+452: It is Bus: passenger capacity = 15. Distance = 1.92308
+453: It is Truck: capacity = 3200. Distance = 3.16667
+454: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+455: It is Truck: capacity = 3200. Distance = 3.16667
+456: It is Bus: passenger capacity = 15. Distance = 1.92308
+457: It is Bus: passenger capacity = 10. Distance = 0.958333
+458: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+459: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+460: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+461: It is Truck: capacity = 3200. Distance = 3.16667
+462: It is Truck: capacity = 3400. Distance = 2.5
+463: It is Truck: capacity = 2340. Distance = 2.08696
+464: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+465: It is Bus: passenger capacity = 15. Distance = 1.92308
+466: It is Bus: passenger capacity = 34. Distance = 1
+467: It is Truck: capacity = 3400. Distance = 2.5
+468: It is Bus: passenger capacity = 15. Distance = 1.92308
+469: It is Truck: capacity = 2340. Distance = 2.08696
+470: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+471: It is Bus: passenger capacity = 34. Distance = 1
+472: It is Bus: passenger capacity = 15. Distance = 1.92308
+473: It is Truck: capacity = 3200. Distance = 3.16667
+474: It is Bus: passenger capacity = 15. Distance = 1.92308
+475: It is Truck: capacity = 3200. Distance = 3.16667
+476: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+477: It is Bus: passenger capacity = 10. Distance = 0.958333
+478: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+479: It is Bus: passenger capacity = 34. Distance = 1
+480: It is Bus: passenger capacity = 15. Distance = 1.92308
+481: It is Bus: passenger capacity = 10. Distance = 0.958333
+482: It is Bus: passenger capacity = 15. Distance = 1.92308
+483: It is Truck: capacity = 3400. Distance = 2.5
+484: It is Bus: passenger capacity = 10. Distance = 0.958333
+485: It is Truck: capacity = 3400. Distance = 2.5
+486: It is Bus: passenger capacity = 34. Distance = 1
+487: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+488: It is Bus: passenger capacity = 10. Distance = 0.958333
+489: It is Truck: capacity = 3200. Distance = 3.16667
+490: It is Truck: capacity = 3200. Distance = 3.16667
+491: It is Truck: capacity = 2340. Distance = 2.08696
+492: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+493: It is Bus: passenger capacity = 15. Distance = 1.92308
+494: It is Bus: passenger capacity = 15. Distance = 1.92308
+495: It is Truck: capacity = 3200. Distance = 3.16667
+496: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+497: It is Truck: capacity = 2340. Distance = 2.08696
+498: It is Truck: capacity = 3200. Distance = 3.16667
+499: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+500: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+501: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+502: It is Bus: passenger capacity = 34. Distance = 1
+503: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+504: It is Truck: capacity = 3400. Distance = 2.5
+505: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+506: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+507: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+508: It is Bus: passenger capacity = 15. Distance = 1.92308
+509: It is Bus: passenger capacity = 15. Distance = 1.92308
+510: It is Truck: capacity = 2340. Distance = 2.08696
+511: It is Bus: passenger capacity = 34. Distance = 1
+512: It is Bus: passenger capacity = 15. Distance = 1.92308
+513: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+514: It is Bus: passenger capacity = 10. Distance = 0.958333
+515: It is Truck: capacity = 3200. Distance = 3.16667
+516: It is Truck: capacity = 3200. Distance = 3.16667
+517: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+518: It is Bus: passenger capacity = 34. Distance = 1
+519: It is Bus: passenger capacity = 15. Distance = 1.92308
+520: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+521: It is Bus: passenger capacity = 15. Distance = 1.92308
+522: It is Bus: passenger capacity = 34. Distance = 1
+523: It is Truck: capacity = 2340. Distance = 2.08696
+524: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+525: It is Bus: passenger capacity = 15. Distance = 1.92308
+526: It is Truck: capacity = 3400. Distance = 2.5
+527: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+528: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+529: It is Bus: passenger capacity = 15. Distance = 1.92308
+530: It is Bus: passenger capacity = 15. Distance = 1.92308
+531: It is Bus: passenger capacity = 34. Distance = 1
+532: It is Truck: capacity = 3400. Distance = 2.5
+533: It is Bus: passenger capacity = 10. Distance = 0.958333
+534: It is Bus: passenger capacity = 10. Distance = 0.958333
+535: It is Truck: capacity = 3400. Distance = 2.5
+536: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+537: It is Truck: capacity = 2340. Distance = 2.08696
+538: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+539: It is Truck: capacity = 3200. Distance = 3.16667
+540: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+541: It is Truck: capacity = 2340. Distance = 2.08696
+542: It is Bus: passenger capacity = 15. Distance = 1.92308
+543: It is Bus: passenger capacity = 34. Distance = 1
+544: It is Bus: passenger capacity = 15. Distance = 1.92308
+545: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+546: It is Bus: passenger capacity = 34. Distance = 1
+547: It is Bus: passenger capacity = 10. Distance = 0.958333
+548: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+549: It is Truck: capacity = 3400. Distance = 2.5
+550: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+551: It is Bus: passenger capacity = 15. Distance = 1.92308
+552: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+553: It is Bus: passenger capacity = 34. Distance = 1
+554: It is Bus: passenger capacity = 15. Distance = 1.92308
+555: It is Truck: capacity = 2340. Distance = 2.08696
+556: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+557: It is Bus: passenger capacity = 15. Distance = 1.92308
+558: It is Truck: capacity = 3200. Distance = 3.16667
+559: It is Bus: passenger capacity = 34. Distance = 1
+560: It is Bus: passenger capacity = 10. Distance = 0.958333
+561: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+562: It is Truck: capacity = 3400. Distance = 2.5
+563: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+564: It is Bus: passenger capacity = 15. Distance = 1.92308
+565: It is Truck: capacity = 3200. Distance = 3.16667
+566: It is Truck: capacity = 2340. Distance = 2.08696
+567: It is Truck: capacity = 2340. Distance = 2.08696
+568: It is Truck: capacity = 3200. Distance = 3.16667
+569: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+570: It is Bus: passenger capacity = 10. Distance = 0.958333
+571: It is Truck: capacity = 3400. Distance = 2.5
+572: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+573: It is Bus: passenger capacity = 15. Distance = 1.92308
+574: It is Truck: capacity = 3400. Distance = 2.5
+575: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+576: It is Truck: capacity = 3200. Distance = 3.16667
+577: It is Bus: passenger capacity = 15. Distance = 1.92308
+578: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+579: It is Truck: capacity = 3400. Distance = 2.5
+580: It is Bus: passenger capacity = 15. Distance = 1.92308
+581: It is Bus: passenger capacity = 10. Distance = 0.958333
+582: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+583: It is Truck: capacity = 2340. Distance = 2.08696
+584: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+585: It is Bus: passenger capacity = 34. Distance = 1
+586: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+587: It is Bus: passenger capacity = 10. Distance = 0.958333
+588: It is Truck: capacity = 2340. Distance = 2.08696
+589: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+590: It is Bus: passenger capacity = 15. Distance = 1.92308
+591: It is Bus: passenger capacity = 15. Distance = 1.92308
+592: It is Truck: capacity = 3400. Distance = 2.5
+593: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+594: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+595: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+596: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+597: It is Truck: capacity = 3200. Distance = 3.16667
+598: It is Truck: capacity = 2340. Distance = 2.08696
+599: It is Bus: passenger capacity = 15. Distance = 1.92308
+600: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+601: It is Bus: passenger capacity = 15. Distance = 1.92308
+602: It is Bus: passenger capacity = 15. Distance = 1.92308
+603: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+604: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+605: It is Truck: capacity = 3200. Distance = 3.16667
+606: It is Truck: capacity = 3400. Distance = 2.5
+607: It is Bus: passenger capacity = 34. Distance = 1
+608: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+609: It is Bus: passenger capacity = 10. Distance = 0.958333
+610: It is Truck: capacity = 2340. Distance = 2.08696
+611: It is Bus: passenger capacity = 10. Distance = 0.958333
+612: It is Bus: passenger capacity = 15. Distance = 1.92308
+613: It is Truck: capacity = 3200. Distance = 3.16667
+614: It is Truck: capacity = 3400. Distance = 2.5
+615: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+616: It is Bus: passenger capacity = 15. Distance = 1.92308
+617: It is Truck: capacity = 2340. Distance = 2.08696
+618: It is Bus: passenger capacity = 34. Distance = 1
+619: It is Bus: passenger capacity = 34. Distance = 1
+620: It is Bus: passenger capacity = 10. Distance = 0.958333
+621: It is Bus: passenger capacity = 15. Distance = 1.92308
+622: It is Truck: capacity = 3400. Distance = 2.5
+623: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+624: It is Truck: capacity = 2340. Distance = 2.08696
+625: It is Bus: passenger capacity = 10. Distance = 0.958333
+626: It is Bus: passenger capacity = 15. Distance = 1.92308
+627: It is Truck: capacity = 3400. Distance = 2.5
+628: It is Truck: capacity = 2340. Distance = 2.08696
+629: It is Truck: capacity = 2340. Distance = 2.08696
+630: It is Truck: capacity = 3200. Distance = 3.16667
+631: It is Bus: passenger capacity = 15. Distance = 1.92308
+632: It is Bus: passenger capacity = 15. Distance = 1.92308
+633: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+634: It is Bus: passenger capacity = 34. Distance = 1
+635: It is Bus: passenger capacity = 34. Distance = 1
+636: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+637: It is Bus: passenger capacity = 15. Distance = 1.92308
+638: It is Bus: passenger capacity = 10. Distance = 0.958333
+639: It is Bus: passenger capacity = 10. Distance = 0.958333
+640: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+641: It is Truck: capacity = 3200. Distance = 3.16667
+642: It is Bus: passenger capacity = 15. Distance = 1.92308
+643: It is Truck: capacity = 2340. Distance = 2.08696
+644: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+645: It is Truck: capacity = 3400. Distance = 2.5
+646: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+647: It is Truck: capacity = 3400. Distance = 2.5
+648: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+649: It is Truck: capacity = 2340. Distance = 2.08696
+650: It is Bus: passenger capacity = 10. Distance = 0.958333
+651: It is Truck: capacity = 3200. Distance = 3.16667
+652: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+653: It is Bus: passenger capacity = 15. Distance = 1.92308
+654: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+655: It is Bus: passenger capacity = 34. Distance = 1
+656: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+657: It is Truck: capacity = 3400. Distance = 2.5
+658: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+659: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+660: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+661: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+662: It is Truck: capacity = 2340. Distance = 2.08696
+663: It is Truck: capacity = 3200. Distance = 3.16667
+664: It is Truck: capacity = 3400. Distance = 2.5
+665: It is Truck: capacity = 2340. Distance = 2.08696
+666: It is Bus: passenger capacity = 15. Distance = 1.92308
+667: It is Truck: capacity = 3200. Distance = 3.16667
+668: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+669: It is Bus: passenger capacity = 15. Distance = 1.92308
+670: It is Truck: capacity = 2340. Distance = 2.08696
+671: It is Bus: passenger capacity = 34. Distance = 1
+672: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+673: It is Bus: passenger capacity = 10. Distance = 0.958333
+674: It is Bus: passenger capacity = 34. Distance = 1
+675: It is Bus: passenger capacity = 10. Distance = 0.958333
+676: It is Bus: passenger capacity = 15. Distance = 1.92308
+677: It is Truck: capacity = 3400. Distance = 2.5
+678: It is Bus: passenger capacity = 15. Distance = 1.92308
+679: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+680: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+681: It is Bus: passenger capacity = 15. Distance = 1.92308
+682: It is Truck: capacity = 3200. Distance = 3.16667
+683: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+684: It is Bus: passenger capacity = 10. Distance = 0.958333
+685: It is Bus: passenger capacity = 15. Distance = 1.92308
+686: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+687: It is Bus: passenger capacity = 34. Distance = 1
+688: It is Bus: passenger capacity = 15. Distance = 1.92308
+689: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+690: It is Truck: capacity = 3400. Distance = 2.5
+691: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+692: It is Bus: passenger capacity = 10. Distance = 0.958333
+693: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+694: It is Bus: passenger capacity = 10. Distance = 0.958333
+695: It is Bus: passenger capacity = 15. Distance = 1.92308
+696: It is Bus: passenger capacity = 34. Distance = 1
+697: It is Truck: capacity = 2340. Distance = 2.08696
+698: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+699: It is Truck: capacity = 3200. Distance = 3.16667
+700: It is Truck: capacity = 3400. Distance = 2.5
+701: It is Truck: capacity = 3200. Distance = 3.16667
+702: It is Bus: passenger capacity = 34. Distance = 1
+703: It is Bus: passenger capacity = 15. Distance = 1.92308
+704: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+705: It is Bus: passenger capacity = 15. Distance = 1.92308
+706: It is Bus: passenger capacity = 10. Distance = 0.958333
+707: It is Bus: passenger capacity = 15. Distance = 1.92308
+708: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+709: It is Truck: capacity = 3200. Distance = 3.16667
+710: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+711: It is Truck: capacity = 3400. Distance = 2.5
+712: It is Truck: capacity = 2340. Distance = 2.08696
+713: It is Truck: capacity = 2340. Distance = 2.08696
+714: It is Truck: capacity = 3200. Distance = 3.16667
+715: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+716: It is Bus: passenger capacity = 10. Distance = 0.958333
+717: It is Truck: capacity = 3400. Distance = 2.5
+718: It is Truck: capacity = 2340. Distance = 2.08696
+719: It is Bus: passenger capacity = 34. Distance = 1
+720: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+721: It is Bus: passenger capacity = 34. Distance = 1
+722: It is Bus: passenger capacity = 15. Distance = 1.92308
+723: It is Bus: passenger capacity = 15. Distance = 1.92308
+724: It is Bus: passenger capacity = 15. Distance = 1.92308
+725: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+726: It is Bus: passenger capacity = 15. Distance = 1.92308
+727: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+728: It is Bus: passenger capacity = 34. Distance = 1
+729: It is Truck: capacity = 3200. Distance = 3.16667
+730: It is Bus: passenger capacity = 15. Distance = 1.92308
+731: It is Truck: capacity = 3200. Distance = 3.16667
+732: It is Bus: passenger capacity = 15. Distance = 1.92308
+733: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+734: It is Bus: passenger capacity = 10. Distance = 0.958333
+735: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+736: It is Truck: capacity = 3400. Distance = 2.5
+737: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+738: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+739: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+740: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+741: It is Truck: capacity = 3200. Distance = 3.16667
+742: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+743: It is Truck: capacity = 3400. Distance = 2.5
+744: It is Bus: passenger capacity = 15. Distance = 1.92308
+745: It is Truck: capacity = 2340. Distance = 2.08696
+746: It is Bus: passenger capacity = 34. Distance = 1
+747: It is Truck: capacity = 2340. Distance = 2.08696
+748: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+749: It is Bus: passenger capacity = 15. Distance = 1.92308
+750: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+751: It is Bus: passenger capacity = 34. Distance = 1
+752: It is Truck: capacity = 3400. Distance = 2.5
+753: It is Bus: passenger capacity = 15. Distance = 1.92308
+754: It is Truck: capacity = 3200. Distance = 3.16667
+755: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+756: It is Bus: passenger capacity = 10. Distance = 0.958333
+757: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+758: It is Truck: capacity = 2340. Distance = 2.08696
+759: It is Bus: passenger capacity = 15. Distance = 1.92308
+760: It is Bus: passenger capacity = 34. Distance = 1
+761: It is Bus: passenger capacity = 15. Distance = 1.92308
+762: It is Truck: capacity = 3200. Distance = 3.16667
+763: It is Bus: passenger capacity = 10. Distance = 0.958333
+764: It is Bus: passenger capacity = 34. Distance = 1
+765: It is Bus: passenger capacity = 10. Distance = 0.958333
+766: It is Bus: passenger capacity = 15. Distance = 1.92308
+767: It is Truck: capacity = 3400. Distance = 2.5
+768: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+769: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+770: It is Truck: capacity = 3200. Distance = 3.16667
+771: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+772: It is Bus: passenger capacity = 10. Distance = 0.958333
+773: It is Bus: passenger capacity = 34. Distance = 1
+774: It is Truck: capacity = 2340. Distance = 2.08696
+775: It is Bus: passenger capacity = 15. Distance = 1.92308
+776: It is Truck: capacity = 3400. Distance = 2.5
+777: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+778: It is Bus: passenger capacity = 10. Distance = 0.958333
+779: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+780: It is Bus: passenger capacity = 15. Distance = 1.92308
+781: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+782: It is Bus: passenger capacity = 15. Distance = 1.92308
+783: It is Bus: passenger capacity = 34. Distance = 1
+784: It is Bus: passenger capacity = 15. Distance = 1.92308
+785: It is Bus: passenger capacity = 15. Distance = 1.92308
+786: It is Truck: capacity = 3200. Distance = 3.16667
+787: It is Bus: passenger capacity = 34. Distance = 1
+788: It is Truck: capacity = 3400. Distance = 2.5
+789: It is Truck: capacity = 3400. Distance = 2.5
+790: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+791: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+792: It is Bus: passenger capacity = 10. Distance = 0.958333
+793: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+794: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+795: It is Truck: capacity = 2340. Distance = 2.08696
+796: It is Bus: passenger capacity = 15. Distance = 1.92308
+797: It is Truck: capacity = 3400. Distance = 2.5
+798: It is Truck: capacity = 2340. Distance = 2.08696
+799: It is Bus: passenger capacity = 15. Distance = 1.92308
+800: It is Truck: capacity = 3200. Distance = 3.16667
+801: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+802: It is Bus: passenger capacity = 15. Distance = 1.92308
+803: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+804: It is Bus: passenger capacity = 10. Distance = 0.958333
+805: It is Truck: capacity = 2340. Distance = 2.08696
+806: It is Truck: capacity = 2340. Distance = 2.08696
+807: It is Bus: passenger capacity = 15. Distance = 1.92308
+808: It is Bus: passenger capacity = 15. Distance = 1.92308
+809: It is Bus: passenger capacity = 34. Distance = 1
+810: It is Truck: capacity = 3200. Distance = 3.16667
+811: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+812: It is Truck: capacity = 3200. Distance = 3.16667
+813: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+814: It is Truck: capacity = 3400. Distance = 2.5
+815: It is Bus: passenger capacity = 10. Distance = 0.958333
+816: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+817: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+818: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+819: It is Bus: passenger capacity = 10. Distance = 0.958333
+820: It is Truck: capacity = 2340. Distance = 2.08696
+821: It is Truck: capacity = 2340. Distance = 2.08696
+822: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+823: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+824: It is Bus: passenger capacity = 34. Distance = 1
+825: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+826: It is Bus: passenger capacity = 15. Distance = 1.92308
+827: It is Truck: capacity = 2340. Distance = 2.08696
+828: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+829: It is Truck: capacity = 3400. Distance = 2.5
+830: It is Truck: capacity = 3200. Distance = 3.16667
+831: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+832: It is Truck: capacity = 3400. Distance = 2.5
+833: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+834: It is Truck: capacity = 3200. Distance = 3.16667
+835: It is Bus: passenger capacity = 34. Distance = 1
+836: It is Bus: passenger capacity = 10. Distance = 0.958333
+837: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+838: It is Truck: capacity = 3400. Distance = 2.5
+839: It is Bus: passenger capacity = 10. Distance = 0.958333
+840: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+841: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+842: It is Bus: passenger capacity = 15. Distance = 1.92308
+843: It is Bus: passenger capacity = 15. Distance = 1.92308
+844: It is Bus: passenger capacity = 15. Distance = 1.92308
+845: It is Bus: passenger capacity = 15. Distance = 1.92308
+846: It is Bus: passenger capacity = 34. Distance = 1
+847: It is Bus: passenger capacity = 15. Distance = 1.92308
+848: It is Truck: capacity = 3200. Distance = 3.16667
+849: It is Bus: passenger capacity = 34. Distance = 1
+850: It is Bus: passenger capacity = 15. Distance = 1.92308
+851: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+852: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+853: It is Bus: passenger capacity = 15. Distance = 1.92308
+854: It is Truck: capacity = 3200. Distance = 3.16667
+855: It is Bus: passenger capacity = 34. Distance = 1
+856: It is Bus: passenger capacity = 15. Distance = 1.92308
+857: It is Truck: capacity = 3400. Distance = 2.5
+858: It is Bus: passenger capacity = 15. Distance = 1.92308
+859: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+860: It is Truck: capacity = 3400. Distance = 2.5
+861: It is Truck: capacity = 3200. Distance = 3.16667
+862: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+863: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+864: It is Truck: capacity = 2340. Distance = 2.08696
+865: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+866: It is Truck: capacity = 3400. Distance = 2.5
+867: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+868: It is Bus: passenger capacity = 34. Distance = 1
+869: It is Bus: passenger capacity = 15. Distance = 1.92308
+870: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+871: It is Bus: passenger capacity = 15. Distance = 1.92308
+872: It is Bus: passenger capacity = 10. Distance = 0.958333
+873: It is Truck: capacity = 3400. Distance = 2.5
+874: It is Bus: passenger capacity = 15. Distance = 1.92308
+875: It is Truck: capacity = 2340. Distance = 2.08696
+876: It is Bus: passenger capacity = 10. Distance = 0.958333
+877: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+878: It is Bus: passenger capacity = 10. Distance = 0.958333
+879: It is Truck: capacity = 2340. Distance = 2.08696
+880: It is Truck: capacity = 3200. Distance = 3.16667
+881: It is Bus: passenger capacity = 34. Distance = 1
+882: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+883: It is Bus: passenger capacity = 10. Distance = 0.958333
+884: It is Bus: passenger capacity = 10. Distance = 0.958333
+885: It is Truck: capacity = 3200. Distance = 3.16667
+886: It is Bus: passenger capacity = 34. Distance = 1
+887: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+888: It is Bus: passenger capacity = 15. Distance = 1.92308
+889: It is Bus: passenger capacity = 15. Distance = 1.92308
+890: It is Bus: passenger capacity = 15. Distance = 1.92308
+891: It is Truck: capacity = 3200. Distance = 3.16667
+892: It is Truck: capacity = 3400. Distance = 2.5
+893: It is Truck: capacity = 2340. Distance = 2.08696
+894: It is Truck: capacity = 3400. Distance = 2.5
+895: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+896: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+897: It is Bus: passenger capacity = 15. Distance = 1.92308
+898: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+899: It is Truck: capacity = 2340. Distance = 2.08696
+900: It is Truck: capacity = 3200. Distance = 3.16667
+901: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+902: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+903: It is Bus: passenger capacity = 15. Distance = 1.92308
+904: It is Bus: passenger capacity = 10. Distance = 0.958333
+905: It is Truck: capacity = 3400. Distance = 2.5
+906: It is Bus: passenger capacity = 34. Distance = 1
+907: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+908: It is Bus: passenger capacity = 15. Distance = 1.92308
+909: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+910: It is Bus: passenger capacity = 34. Distance = 1
+911: It is Truck: capacity = 2340. Distance = 2.08696
+912: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+913: It is Bus: passenger capacity = 10. Distance = 0.958333
+914: It is Truck: capacity = 2340. Distance = 2.08696
+915: It is Bus: passenger capacity = 15. Distance = 1.92308
+916: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+917: It is Bus: passenger capacity = 15. Distance = 1.92308
+918: It is Bus: passenger capacity = 34. Distance = 1
+919: It is Bus: passenger capacity = 15. Distance = 1.92308
+920: It is Truck: capacity = 3200. Distance = 3.16667
+921: It is Bus: passenger capacity = 15. Distance = 1.92308
+922: It is Truck: capacity = 2340. Distance = 2.08696
+923: It is Truck: capacity = 3200. Distance = 3.16667
+924: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+925: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+926: It is Truck: capacity = 3400. Distance = 2.5
+927: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+928: It is Truck: capacity = 3400. Distance = 2.5
+929: It is Bus: passenger capacity = 34. Distance = 1
+930: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+931: It is Bus: passenger capacity = 10. Distance = 0.958333
+932: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+933: It is Bus: passenger capacity = 10. Distance = 0.958333
+934: It is Truck: capacity = 3200. Distance = 3.16667
+935: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+936: It is Bus: passenger capacity = 15. Distance = 1.92308
+937: It is Truck: capacity = 3400. Distance = 2.5
+938: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+939: It is Truck: capacity = 3200. Distance = 3.16667
+940: It is Bus: passenger capacity = 34. Distance = 1
+941: It is Bus: passenger capacity = 15. Distance = 1.92308
+942: It is Truck: capacity = 2340. Distance = 2.08696
+943: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+944: It is Bus: passenger capacity = 10. Distance = 0.958333
+945: It is Bus: passenger capacity = 15. Distance = 1.92308
+946: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+947: It is Truck: capacity = 2340. Distance = 2.08696
+948: It is Truck: capacity = 3400. Distance = 2.5
+949: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+950: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+951: It is Bus: passenger capacity = 34. Distance = 1
+952: It is Bus: passenger capacity = 34. Distance = 1
+953: It is Truck: capacity = 3200. Distance = 3.16667
+954: It is Bus: passenger capacity = 15. Distance = 1.92308
+955: It is Bus: passenger capacity = 15. Distance = 1.92308
+956: It is Bus: passenger capacity = 10. Distance = 0.958333
+957: It is Truck: capacity = 2340. Distance = 2.08696
+958: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+959: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+960: It is Truck: capacity = 3400. Distance = 2.5
+961: It is Bus: passenger capacity = 10. Distance = 0.958333
+962: It is Bus: passenger capacity = 15. Distance = 1.92308
+963: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+964: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+965: It is Bus: passenger capacity = 15. Distance = 1.92308
+966: It is Truck: capacity = 2340. Distance = 2.08696
+967: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+968: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+969: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+970: It is Truck: capacity = 3400. Distance = 2.5
+971: It is Bus: passenger capacity = 15. Distance = 1.92308
+972: It is Bus: passenger capacity = 10. Distance = 0.958333
+973: It is Bus: passenger capacity = 10. Distance = 0.958333
+974: It is Truck: capacity = 3200. Distance = 3.16667
+975: It is Bus: passenger capacity = 15. Distance = 1.92308
+976: It is Truck: capacity = 2340. Distance = 2.08696
+977: It is Truck: capacity = 3200. Distance = 3.16667
+978: It is Truck: capacity = 3400. Distance = 2.5
+979: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+980: It is Bus: passenger capacity = 34. Distance = 1
+981: It is Bus: passenger capacity = 34. Distance = 1
+982: It is Truck: capacity = 2340. Distance = 2.08696
+983: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+984: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+985: It is Automobile: max speed = 45, fuel consumption = 18, fuel capasity = 27. Distance = 1.5
+986: It is Bus: passenger capacity = 15. Distance = 1.92308
+987: It is Truck: capacity = 2340. Distance = 2.08696
+988: It is Bus: passenger capacity = 15. Distance = 1.92308
+989: It is Bus: passenger capacity = 34. Distance = 1
+990: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+991: It is Truck: capacity = 3200. Distance = 3.16667
+992: It is Automobile: max speed = 140, fuel consumption = 19, fuel capasity = 30. Distance = 1.57895
+993: It is Bus: passenger capacity = 15. Distance = 1.92308
+994: It is Truck: capacity = 3400. Distance = 2.5
+995: It is Bus: passenger capacity = 10. Distance = 0.958333
+996: It is Truck: capacity = 3200. Distance = 3.16667
+997: It is Automobile: max speed = 46, fuel consumption = 11, fuel capasity = 19. Distance = 1.72727
+998: It is Bus: passenger capacity = 15. Distance = 1.92308
+999: It is Bus: passenger capacity = 34. Distance = 1

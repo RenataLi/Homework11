@@ -15,17 +15,17 @@ car* In(ifstream &ifst) {
     int k;
     ifst >> k;
     switch(k) {
-        case 1:
+        case 3:
             car_ = new car;
             car_->k = car::AUTOMOBILE;
             In(car_->a, ifst);
             return car_;
-        case 2:
+        case 1:
             car_ = new car;
             car_->k = car::TRUCK;
             In(car_->t, ifst);
             return car_;
-        case 3:
+        case 2:
             car_ = new car;
             car_->k = car::BUS;
             In(car_->b,ifst);
@@ -40,17 +40,17 @@ car *InRnd() {
     car *car_;
     auto k = rand() % 3 + 1;
     switch(k) {
-        case 1:
+        case 3:
             car_ = new car;
             car_->k = car::AUTOMOBILE;
             InRnd(car_->a);
             return car_;
-        case 2:
+        case 1:
             car_ = new car;
             car_->k = car::TRUCK;
             InRnd(car_->t);
             return car_;
-        case 3:
+        case 2:
             car_ = new car;
             car_->k = car::BUS;
             InRnd(car_->b);

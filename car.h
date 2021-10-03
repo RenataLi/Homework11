@@ -33,7 +33,7 @@ car *InRnd();
 void Out(car &c, ofstream &ofst);
 
 // Вычисление периметра обобщенной фигуры
-double Distancer(car &c);
+double Distance(car &c);
 
 #endif
 
