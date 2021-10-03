@@ -17,21 +17,21 @@ struct truck {
     double fuel_consumption;//расход топлива
 };
 
-// Ввод параметров прямоугольника из файла
+// Ввод параметров грузовика из файла
 void In(truck &t, ifstream &ifst);
 
-// Случайный ввод параметров прямоугольника
+// Случайный ввод параметров грузовика
 void InRnd(truck &t);
 
-// Вывод параметров прямоугольника в форматируемый поток
+// Вывод параметров грузовика в форматируемый поток
 void Out(truck &t, ofstream &ofst);
 
-// Вычисление периметра прямоугольника
+// Вычисление периметра грузовика
 double Distance(truck &t);
 
-#endif //__rectangle__
+#endif
 
 #ifndef HOMEWORK1_TRUCK_H
 #define HOMEWORK1_TRUCK_H
 
-#endif //HOMEWORK1_TRUCK_H
+#endif

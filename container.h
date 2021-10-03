@@ -1,6 +1,4 @@
-//
-// Created by ASUS on 23.09.2021.
-//
+
 #ifndef __container__
 #define __container__
 
@@ -44,4 +42,4 @@ void Sort(container &c);
 #ifndef HOMEWORK1_CONTAINER_H
 #define HOMEWORK1_CONTAINER_H
 
-#endif //HOMEWORK1_CONTAINER_H
+#endif

@@ -55,7 +55,7 @@ void Sort(container &c){
     // Сортировка массива пузырьком
     for (int i = 0; i < size - 1; i++) {
         for (int j = 0; j < size - i - 1; j++) {
-            if (c.cont[j] > c.cont[j + 1]) {
+            if (Distance(*(c.cont[j]))> Distance(*(c.cont[j + 1]))) {
                 // меняем элементы местами
                 temp = c.cont[j];
                 c.cont[j] = c.cont[j + 1];

@@ -1,6 +1,4 @@
-//
-// Created by ASUS on 23.09.2021.
-//
+
 //------------------------------------------------------------------------------
 // truck.cpp - содержит функции обработки грузовика
 //------------------------------------------------------------------------------
@@ -28,11 +26,15 @@ void InRnd(truck &t) {
 void Out(truck &t, ofstream &ofst) {
     ofst << "It is Truck: capacity = "
          << t.lifting_capacity
+            <<", fuel_capasity = "
+            <<t.fuel_capasity
+            <<", fuel_consumption = "
+            <<t.fuel_consumption
          << ". Distance = " << Distance(t) << "\n";
 }
 
 //------------------------------------------------------------------------------
-// Вычисление периметра треугольника
+// Вычисление максимального расстояния машины
 double Distance(truck &t) {
     return double(t.fuel_capasity/t.fuel_consumption);
 }

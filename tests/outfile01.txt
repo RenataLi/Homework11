@@ -1,10 +1,10 @@
 Filled container:
 Container contains 8 elements.
-0: It is Truck: capacity = 100. Distance = 3
-1: It is Bus: passenger capacity = 3500. Distance = 4
-2: It is Truck: capacity = 90. Distance = 1.33333
+0: It is Truck: capacity = 100, fuel_capasity = 30, fuel_consumption = 10. Distance = 3
+1: It is Bus: passenger capacity = 3500, fuel_capasity = 20, fuel_consumption = 5. Distance = 4
+2: It is Truck: capacity = 90, fuel_capasity = 20, fuel_consumption = 15. Distance = 1.33333
 3: It is Automobile: max speed = 8, fuel consumption = 18, fuel capasity = 24. Distance = 1.33333
-4: It is Bus: passenger capacity = 2000. Distance = 19
+4: It is Bus: passenger capacity = 2000, fuel_capasity = 19, fuel_consumption = 1. Distance = 19
 5: It is Automobile: max speed = 27, fuel consumption = 10, fuel capasity = 20. Distance = 2
-6: It is Truck: capacity = 78. Distance = 3
-7: It is Bus: passenger capacity = 10. Distance = 1
+6: It is Truck: capacity = 78, fuel_capasity = 42, fuel_consumption = 14. Distance = 3
+7: It is Bus: passenger capacity = 10, fuel_capasity = 10, fuel_consumption = 10. Distance = 1

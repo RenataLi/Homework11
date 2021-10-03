@@ -1,18 +1,12 @@
-//
-// Created by ASUS on 23.09.2021.
-//
+
 #ifndef __automobile__
 #define __automobile__
-
 //------------------------------------------------------------------------------
-// automobile.h - содержит описание треугольника
+// automobile.h - содержит описание автомобиля
 //------------------------------------------------------------------------------
-
 #include <fstream>
 using namespace std;
-
 # include "rnd.h"
-
 //------------------------------------------------------------------------------
 // автомобиль
 struct automobile {
@@ -27,15 +21,13 @@ void In(automobile &a, ifstream &ifst);
 // Случайный ввод параметров автомобиля
 void InRnd(automobile &е);
 
-// Вывод параметров треугольника в форматируемый поток
+// Вывод параметров автомобиля в форматируемый поток
 void Out(automobile &t, ofstream &ofst);
 
-// Вычисление периметра треугольника
+// Вычисление максимального расстояния автомобиля
 double Distance(automobile &t);
 
-#endif //__triangle__
-
+#endif
 #ifndef HOMEWORK1_AUTOMOBILE_H
 #define HOMEWORK1_AUTOMOBILE_H
-
 #endif //HOMEWORK1_AUTOMOBILE_H

@@ -1,0 +1,12 @@
+Buble sorted container : 
+Container contains 10 elements.
+0: It is Automobile: max speed = 113, fuel consumption = 35, fuel capasity = 6. Distance = 0.171429
+1: It is Automobile: max speed = 133, fuel consumption = 40, fuel capasity = 9. Distance = 0.225
+2: It is Truck: capacity = 583, fuel_capasity = 6, fuel_consumption = 25. Distance = 0.24
+3: It is Automobile: max speed = 57, fuel consumption = 30, fuel capasity = 15. Distance = 0.5
+4: It is Automobile: max speed = 157, fuel consumption = 26, fuel capasity = 14. Distance = 0.538462
+5: It is Truck: capacity = 3115, fuel_capasity = 19, fuel_consumption = 35. Distance = 0.542857
+6: It is Truck: capacity = 3711, fuel_capasity = 14, fuel_consumption = 20. Distance = 0.7
+7: It is Bus: passenger capacity = 9, fuel_capasity = 13, fuel_consumption = 6. Distance = 2.16667
+8: It is Truck: capacity = 592, fuel_capasity = 12, fuel_consumption = 5. Distance = 2.4
+9: It is Truck: capacity = 61, fuel_capasity = 17, fuel_consumption = 6. Distance = 2.83333
